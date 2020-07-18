@@ -1,0 +1,96 @@
+
+Tue Sep 24 10:42:10 AEST 2019 Using FileChannel with a direct ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 9.3395 msec
+Tue Sep 24 10:42:10 AEST 2019 Using File Channel with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 57.9388 msec
+Tue Sep 24 10:42:10 AEST 2019 Using a programmer-managed byte-array of 1080 and File size is 24729 bytes Elapsed Time is 59.842699 msec
+Tue Sep 24 10:53:22 AEST 2019 Using FileChannel with a direct ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 5.8507 msec
+Tue Sep 24 10:53:22 AEST 2019 Using File Channel with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 117.5252 msec
+Tue Sep 24 10:53:22 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 3.3914 msec
+Tue Sep 24 10:53:23 AEST 2019 Using a programmer-managed byte-array of 1080 and File size is 24729 bytes Elapsed Time is 54.1798 msec
+Tue Sep 24 10:54:13 AEST 2019 Using FileChannel with a direct ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 5.6839 msec
+Tue Sep 24 10:54:13 AEST 2019 Using File Channel with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 162.8291 msec
+Tue Sep 24 10:54:13 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 7.299 msec
+Tue Sep 24 10:54:14 AEST 2019 Using a programmer-managed byte-array of 1080 and File size is 24729 bytes Elapsed Time is 427.574301 msec
+Tue Sep 24 10:59:07 AEST 2019 Using FileChannel with a direct ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 8.419999 msec
+Tue Sep 24 10:59:08 AEST 2019 Using File Channel with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 289.3702 msec
+Tue Sep 24 10:59:08 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 6.719199 msec
+Tue Sep 24 10:59:08 AEST 2019 Using a programmer-managed byte-array of 1080 and File size is 24729 bytes Elapsed Time is 103.5317 msec
+Tue Sep 24 11:03:59 AEST 2019 Using FileChannel with a direct ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 25.649499 msec
+Tue Sep 24 11:03:59 AEST 2019 Using File Channel with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 81.6854 msec
+Tue Sep 24 11:03:59 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 3.447401 msec
+Tue Sep 24 11:04:00 AEST 2019 Using a programmer-managed byte-array of 1080 and File size is 24729 bytes Elapsed Time is 116.5707 msec
+Tue Sep 24 11:06:23 AEST 2019 Using FileChannel with a direct ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 6.9301 msec
+Tue Sep 24 11:06:24 AEST 2019 Using File Channel with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 393.922 msec
+Tue Sep 24 11:06:24 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 8.172599 msec
+Tue Sep 24 11:06:25 AEST 2019 Using a programmer-managed byte-array of 1080 and File size is 24729 bytes Elapsed Time is 343.26 msec
+Tue Sep 24 12:24:14 AEST 2019 Using FileChannel with a direct ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 24.1538 msec
+Tue Sep 24 12:24:15 AEST 2019 Using File Channel with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 330.0612 msec
+Tue Sep 24 12:24:15 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 2.6856 msec
+Tue Sep 24 12:24:15 AEST 2019 Using a programmer-managed byte-array of 1080 and File size is 24729 bytes Elapsed Time is 222.244701 msec
+Tue Sep 24 12:24:25 AEST 2019 Using FileChannel with a direct ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 17.156701 msec
+Tue Sep 24 12:24:25 AEST 2019 Using File Channel with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 59.7166 msec
+Tue Sep 24 12:24:26 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 11.4155 msec
+Tue Sep 24 12:24:26 AEST 2019 Using a programmer-managed byte-array of 1080 and File size is 24729 bytes Elapsed Time is 94.059899 msec
+Tue Sep 24 12:25:05 AEST 2019 Using FileChannel with a direct ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 5.5753 msec
+Tue Sep 24 12:25:05 AEST 2019 Using File Channel with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 67.872701 msec
+Tue Sep 24 12:25:06 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 14.7867 msec
+Tue Sep 24 12:25:06 AEST 2019 Using a programmer-managed byte-array of 1080 and File size is 24729 bytes Elapsed Time is 76.404599 msec
+Tue Sep 24 12:29:16 AEST 2019 Using FileChannel with a direct ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 7.768099 msec
+Tue Sep 24 12:29:16 AEST 2019 Using File Channel with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 251.276401 msec
+Tue Sep 24 12:29:17 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 5.070299 msec
+Tue Sep 24 12:29:17 AEST 2019 Using a programmer-managed byte-array of 1080 and File size is 24729 bytes Elapsed Time is 79.9584 msec
+Tue Sep 24 12:30:28 AEST 2019 Using FileChannel with a direct ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 13.0506 msec
+Tue Sep 24 12:30:28 AEST 2019 Using File Channel with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 350.3095 msec
+Tue Sep 24 12:30:28 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 4.200201 msec
+Tue Sep 24 12:30:29 AEST 2019 Using a programmer-managed byte-array of 1080 and File size is 24729 bytes Elapsed Time is 62.0637 msec
+Tue Sep 24 12:30:43 AEST 2019 Using FileChannel with a direct ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 11.227399 msec
+Tue Sep 24 12:30:44 AEST 2019 Using File Channel with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 86.2388 msec
+Tue Sep 24 12:30:44 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 2.8343 msec
+Tue Sep 24 12:30:44 AEST 2019 Using a programmer-managed byte-array of 1080 and File size is 24729 bytes Elapsed Time is 81.2066 msec
+Tue Sep 24 12:35:50 AEST 2019 Using FileChannel with a direct ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 23.6359 msec
+Tue Sep 24 12:35:51 AEST 2019 Using File Channel with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 69.9964 msec
+Tue Sep 24 12:35:51 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 3.110001 msec
+Tue Sep 24 12:35:51 AEST 2019 Using a programmer-managed byte-array of 1080 and File size is 24729 bytes Elapsed Time is 76.4038 msec
+Tue Sep 24 13:03:05 AEST 2019 Using FileChannel with a direct ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 66.514099 msec
+Tue Sep 24 13:03:06 AEST 2019 Using File Channel with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 174.3857 msec
+Tue Sep 24 13:03:06 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 289.3107 msec
+Tue Sep 24 13:03:07 AEST 2019 Using a programmer-managed byte-array of 1080 and File size is 24729 bytes Elapsed Time is 89.4746 msec
+Tue Sep 24 13:03:41 AEST 2019 Using FileChannel with a direct ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 411.883399 msec
+Tue Sep 24 13:03:41 AEST 2019 Using File Channel with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 285.388 msec
+Tue Sep 24 13:03:42 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 59.6331 msec
+Tue Sep 24 13:03:42 AEST 2019 Using a programmer-managed byte-array of 1080 and File size is 24729 bytes Elapsed Time is 72.707101 msec
+Tue Sep 24 13:10:22 AEST 2019 Using FileChannel with a direct ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 67.9168 msec
+Tue Sep 24 13:10:22 AEST 2019 Using File Channel with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 57.3158 msec
+Tue Sep 24 13:10:23 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 107.8094 msec
+Tue Sep 24 13:10:23 AEST 2019 Using a programmer-managed byte-array of 1080 and File size is 24729 bytes Elapsed Time is 56.865199 msec
+Tue Sep 24 13:12:02 AEST 2019 Using FileChannel with a direct ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 101.4374 msec
+Tue Sep 24 13:12:02 AEST 2019 Using File Channel with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 154.013301 msec
+Tue Sep 24 13:12:03 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 69.987 msec
+Tue Sep 24 13:12:03 AEST 2019 Using a programmer-managed byte-array of 1080 and File size is 24729 bytes Elapsed Time is 92.286499 msec
+Tue Sep 24 13:12:03 AEST 2019 Using FileChannel with a direct ByteBuffer of 2080 and File size is 24729 bytes Elapsed Time is 209.3301 msec
+Tue Sep 24 13:12:04 AEST 2019 Using File Channel with an indirect ByteBuffer of 2080 and File size is 24729 bytes Elapsed Time is 72.3784 msec
+Tue Sep 24 13:12:04 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 2080 and File size is 24729 bytes Elapsed Time is 270.6615 msec
+Tue Sep 24 13:12:05 AEST 2019 Using a programmer-managed byte-array of 2080 and File size is 24729 bytes Elapsed Time is 99.165 msec
+Tue Sep 24 19:19:59 AEST 2019 Using FileChannel with a direct ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 43.7587 msec
+Tue Sep 24 19:19:59 AEST 2019 Using File Channel with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 49.682901 msec
+Tue Sep 24 19:19:59 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 43.776801 msec
+Tue Sep 24 19:19:59 AEST 2019 Using a programmer-managed byte-array of 1080 and File size is 24729 bytes Elapsed Time is 45.4425 msec
+Tue Sep 24 19:19:59 AEST 2019 Using FileChannel with a direct ByteBuffer of 2080 and File size is 24729 bytes Elapsed Time is 48.7994 msec
+Tue Sep 24 19:20:00 AEST 2019 Using File Channel with an indirect ByteBuffer of 2080 and File size is 24729 bytes Elapsed Time is 43.2607 msec
+Tue Sep 24 19:20:00 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 2080 and File size is 24729 bytes Elapsed Time is 41.651 msec
+Tue Sep 24 19:20:00 AEST 2019 Using a programmer-managed byte-array of 2080 and File size is 24729 bytes Elapsed Time is 43.208601 msec
+Tue Sep 24 19:29:34 AEST 2019 Using FileChannel with a direct ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 50.2889 msec
+Tue Sep 24 19:29:34 AEST 2019 Using File Channel with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 45.6943 msec
+Tue Sep 24 19:29:34 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 41.7631 msec
+Tue Sep 24 19:29:34 AEST 2019 Using a programmer-managed byte-array of 1080 and File size is 24729 bytes Elapsed Time is 45.705199 msec
+Tue Sep 24 19:29:34 AEST 2019 Using FileChannel with a direct ByteBuffer of 2080 and File size is 24729 bytes Elapsed Time is 50.8993 msec
+Tue Sep 24 19:29:34 AEST 2019 Using File Channel with an indirect ByteBuffer of 2080 and File size is 24729 bytes Elapsed Time is 42.4287 msec
+Tue Sep 24 19:29:35 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 2080 and File size is 24729 bytes Elapsed Time is 45.300599 msec
+Tue Sep 24 19:29:35 AEST 2019 Using a programmer-managed byte-array of 2080 and File size is 24729 bytes Elapsed Time is 47.8094 msec
+Sat Apr 11 17:37:24 AEST 2020 Using FileChannel with a direct ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 134.3942 msec
+Sat Apr 11 17:37:25 AEST 2020 Using File Channel with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 135.5135 msec
+Sat Apr 11 17:37:25 AEST 2020 Using Buffered Stream with an indirect ByteBuffer of 1080 and File size is 24729 bytes Elapsed Time is 119.0726 msec
+Sat Apr 11 17:37:25 AEST 2020 Using a programmer-managed byte-array of 1080 and File size is 24729 bytes Elapsed Time is 189.88 msec
+Sat Apr 11 17:37:26 AEST 2020 Using FileChannel with a direct ByteBuffer of 2080 and File size is 24729 bytes Elapsed Time is 180.1375 msec
+Sat Apr 11 17:37:26 AEST 2020 Using File Channel with an indirect ByteBuffer of 2080 and File size is 24729 bytes Elapsed Time is 139.6688 msec
+Sat Apr 11 17:37:27 AEST 2020 Using Buffered Stream with an indirect ByteBuffer of 2080 and File size is 24729 bytes Elapsed Time is 137.6893 msec
+Sat Apr 11 17:37:27 AEST 2020 Using a programmer-managed byte-array of 2080 and File size is 24729 bytes Elapsed Time is 103.8083 msec

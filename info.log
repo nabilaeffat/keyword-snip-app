@@ -1,0 +1,29 @@
+
+Mon Sep 23 19:18:19 AEST 2019 Using a programmer-managed byte-array of 1024 and File size is 24729 bytes Elapsed Time is 30.2361 msec
+Mon Sep 23 19:25:28 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 6.4408 msec
+Mon Sep 23 19:25:40 AEST 2019 Using FileChannel with an indirect ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 16.7103 msec
+Mon Sep 23 19:25:49 AEST 2019 Using FileChannel with a direct ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 11.2077 msec
+Mon Sep 23 19:25:49 AEST 2019 Using FileChannel with an indirect ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 8.3132 msec
+Mon Sep 23 21:06:28 AEST 2019 Using FileChannel with a direct ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 8.2452 msec
+Sample.txt (The system cannot find the file specified)
+Mon Sep 23 21:20:35 AEST 2019 Error: Sample.txt (The system cannot find the file specified)
+Mon Sep 23 22:08:22 AEST 2019 Using FileChannel with a direct ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 5.6273 msec
+Mon Sep 23 22:09:33 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 3.8355 msec
+Tue Sep 24 10:38:12 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 11.363199 msec
+Tue Sep 24 10:43:23 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 5.587999 msec
+Tue Sep 24 10:47:15 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 3.305401 msec
+Tue Sep 24 12:19:15 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 8.930301 msec
+Tue Sep 24 12:53:10 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 3.5705 msec
+Tue Sep 24 12:58:47 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 3.610101 msec
+Tue Sep 24 12:59:08 AEST 2019 Using FileChannel with a direct ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 11.1457 msec
+Tue Sep 24 12:59:23 AEST 2019 Using File Channel with an indirect ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 10.2997 msec
+Tue Sep 24 13:00:35 AEST 2019 Using File Channel with an indirect ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 8.263299 msec
+Tue Sep 24 13:00:58 AEST 2019 Using FileChannel with a direct ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 27.8879 msec
+Tue Sep 24 13:01:12 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 6.264 msec
+Tue Sep 24 13:08:30 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 20.4579 msec
+Tue Sep 24 13:09:32 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 5.785999 msec
+Tue Sep 24 18:39:12 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 5.8826 msec
+Tue Sep 24 19:18:40 AEST 2019 Using FileChannel with a direct ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 11.378299 msec
+Tue Sep 24 19:19:01 AEST 2019 Using File Channel with an indirect ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 13.9982 msec
+Tue Sep 24 19:19:23 AEST 2019 Using Buffered Stream with an indirect ByteBuffer of 1024 and File size is 24729 bytes Elapsed Time is 5.394399 msec
+Tue Sep 24 19:19:46 AEST 2019 Using a programmer-managed byte-array of 1024 and File size is 24729 bytes Elapsed Time is 6.187201 msec
